@@ -1,0 +1,7 @@
+groq
+psycopg2-binary
+Faker==24.0.0
+pandas
+python-dotenv==1.0.1
+scikit-learn
+sqlalchemy
